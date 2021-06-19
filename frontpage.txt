@@ -1,0 +1,21 @@
+nav buttons:-
+1. Article
+4. Algorithims
+2. Our Project
+5. Project Insights ---> Sotwares and frameworks
+3. Contact us
+---------------------------------------
+Front Page:
+What is ts?
+Facts Cards
+------------------------------------------
+Youtube Imbed
+---------------------------------------------
+Applications:-
+
+
+---------------------------------------------
+footer
+email info
+insta 
+facebook
